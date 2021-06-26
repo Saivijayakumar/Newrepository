@@ -14,7 +14,10 @@ namespace Helloworld
             Console.WriteLine("Testing merge with gitbash!");
             Console.WriteLine("for checking");
 
+            Console.WriteLine("for checking");
+//coments
             Console.Read();
+
         }
     }
 }
