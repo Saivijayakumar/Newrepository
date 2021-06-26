@@ -11,7 +11,7 @@ namespace Helloworld
         static void Main(string[] args)
         {
             Console.WriteLine("My first program");
-            Console.WriteLine("Testing merge with gitbash");
+            Console.WriteLine("Testing merge with gitbash!");
             Console.WriteLine("for checking");
 
             Console.Read();
